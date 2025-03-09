@@ -1,0 +1,11 @@
+team_info <- data.frame(
+	Names = c("Chimbusonma Amaechina", "Chidiebere Nwosu", "Madyson Philips", "Moradeke Adetosoye", "Vanessa Ezeh"),
+	Slack_username = c("Sonma505", "Chidi89", "syn_phil05", "mordek_675", "vezeh6"),
+	Email = c("amaechinasonma78@gmail.com", "cnwosu@gsumail.gram.edu", "mphilip@gsumail.gram.edu", "madet@gsumail.gram.edu", "vezeh@gsumail.gram.edu"),
+	Hobbies = c("reading", "sleeping", "watching TV", "eating", "coding"),
+	Countries = c("Nigerian", "Nigerian", "American", "Nigerian", "Nigerian"),
+	Discipline = c("Biology", "Nursing", "Biology", "Business", "Computer Science"),
+	Preferred_Programming_Language = c("R", "Python", "Python", "R", "Python")
+)
+
+print(team_info)
